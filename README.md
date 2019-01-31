@@ -22,4 +22,4 @@ Wenn Du vom Verkehrsverbung/Unternehmen neue Informationen erhältst, oder die D
 ## Verkehrsverbünde und -unternehmen
 Die nochfolgenden Verkehrsverbünde und -unternehmen beobachten diese Seite bereits und müssen nicht gesondert angeschrieben werden:
 
-* Noch keines
+* Rhein-Neckar-Verkehr GmbH
