@@ -22,4 +22,5 @@ Wenn Du vom Verkehrsverbung/Unternehmen neue Informationen erhältst, oder die D
 ## Verkehrsverbünde und -unternehmen
 Die nochfolgenden Verkehrsverbünde und -unternehmen beobachten diese Seite bereits und müssen nicht gesondert angeschrieben werden:
 
-* Rhein-Neckar-Verkehr GmbH
+* Rhein-Neckar-Verkehr GmbH (RNV)
+* Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW)
