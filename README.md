@@ -19,6 +19,9 @@ Falls der Verkehrsverbund/ das Verkehrsunternehmen nicht bereits dieses Projekt 
 
 Wenn Du vom Verkehrsverbung/Unternehmen neue Informationen erhältst, oder die Daten korrigiert wurden, aktualisiere bzw. schließe Deinen hier angelegten Issue.
 
+* [Problem melden](https://github.com/mfdz/GTFS-Issues/issues/new/choose) 
+* [Gemeldete Probleme ansehen](https://github.com/mfdz/GTFS-Issues/issues)
+
 ## Verkehrsverbünde und -unternehmen
 Die nochfolgenden Verkehrsverbünde und -unternehmen beobachten diese Seite bereits und müssen nicht gesondert angeschrieben werden:
 
