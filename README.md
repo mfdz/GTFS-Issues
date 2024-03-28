@@ -3,7 +3,7 @@
 Documentation and tracking of current problems with GTFS data sets. In the past, only German datasets where tracked.
 
 ## Background
-Data, just like software, contain errors. However, while (open source) software deals openly and transparently with such errors, this is still rather uncommon with data: errors are reported via email to the data responsible party and then (hopefully) eventually disappear from the data.
+Data, just like software, contain errors. However, while (open source) software development projects deal openly and transparently with such errors, this is still rather uncommon with data: errors are reported via email to the data responsible party and then (hopefully) eventually disappear from the data.
 
 This also applies to GTFS data, which is fortunately increasingly being published by transport associations.
 
