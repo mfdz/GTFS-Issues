@@ -1,6 +1,6 @@
 # GTFS-Issues
 
-Documentation and tracking of current problems with GTFS data sets. In the past, only German datasets where tracked.
+Documentation and tracking of current problems with [GTFS](https://gtfs.org) data sets. In the past, only German datasets were tracked.
 
 ## Background
 Data, just like software, contain errors. However, while (open source) software development projects deal openly and transparently with such errors, this is still rather uncommon with data: errors are reported via email to the data responsible party and then (hopefully) eventually disappear from the data.
