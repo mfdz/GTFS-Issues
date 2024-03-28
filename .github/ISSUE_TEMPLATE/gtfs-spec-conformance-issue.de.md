@@ -26,5 +26,8 @@ Gib, falls möglich, eine Referenz zur zugehörigen GTFS-Spezifikation an.
 **Aktualisierungszeitpunkt der GTFS-Daten**
 [z.B. 17. Januar 2019]
 
+**Hash der GTFS-Daten**
+Wenn du die Möglichkeit hast, stelle uns bitte einen Hash des gesamten GTFS-Feeds zur Verfügung, z.B. einen [SHA-1](https://en.wikipedia.org/wiki/SHA-1)- oder [MD5](https://en.wikipedia.org/wiki/MD5)-Hash. So können Andere sicherstellen, dass sie dieselbe Version des Feeds untersuchen.
+
 **Downloadlink der GTFS-Daten**
 [z.B. http://www.verbund.de/download/gtfs.zip]
