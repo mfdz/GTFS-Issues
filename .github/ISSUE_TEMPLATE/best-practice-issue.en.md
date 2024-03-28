@@ -26,5 +26,8 @@ Provide a link to the GTFS Best Practice which should be followed.
 **Last update of GTFS Feed**
 [e.g. 2019-01-17]
 
+**Hash of the GTFS Feed**
+If you have the ability, please provide a hash of the whole GTFS feed, e.g. a [SHA-1](https://en.wikipedia.org/wiki/SHA-1) or [MD5](https://en.wikipedia.org/wiki/MD5) hash. This allows others to check if they're working with the exact same version of the feed.
+
 **GTFS Feed Download Link**
 [e.g. http://www.verbund.de/download/gtfs.zip]
