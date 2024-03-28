@@ -9,7 +9,7 @@ This also applies to GTFS data, which is fortunately increasingly being publishe
 
 As most of today's open data platforms do not yet include "issue trackers" for reporting and tracking data errors, we launched this GitHub project 5 years ago, originally only for German feeds (that's the reason why many issues were submitted in German language). Just like back then, we still hope today that the mobility industry recognizes the benefits of open issue trackers for datasets and eventually provides such tools themselves.
 
-For GTFS feeds, we want to document known data issues and make them traceable. Anyone who identifies an error in the data is encouraged to post it here. Ideally, transport associations will use this platform to provide information about the error and its elimination. Until we achieve this goal, we ask everyone who reports an error here to also report it to the transport association and document new information here.
+For GTFS feeds, we want to document known data issues and make them traceable. Anyone who identifies an error in the data is encouraged to post it here. Ideally, transport associations will use this platform to provide information about the error and updates on their work to eliminate it. Until we achieve this goal, we ask everyone who reports an error here to also report it to the transport association and document new information here.
 
 ## How do I report an issue?
 If you have identified an error in the data, create a new issue. Prefix it with the abbreviation of the transport association or company in the title.
