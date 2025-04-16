@@ -1,11 +1,16 @@
 # GTFS-Issues
 
-Documentation and tracking of current problems with [GTFS](https://gtfs.org) data sets.
+Documentation and tracking of data quality problems in [GTFS](https://gtfs.org) data sets.
 
 Previously, this project had been limited to German data sets, but you're invited to document problems in other regions, too!
 
 ## Background
 Data, just like software, contain errors. However, while (open source) software development projects deal openly and transparently with such errors, this is still rather uncommon with data: errors are reported via email to the data responsible party and then (hopefully) eventually disappear from the data.
+
+This approach has several disadvantages:
+- When discovering a data quality issue, I cannot tell if someone else has already investigated and reported it. It might happen that I replicate their work even though *another* detail report to the publisher might not help much.
+- When a data quality issue is fixed, usually only the reporting part (if at all) will be notified about the fix. Others cannot observe the status "passively".
+- Even as the publisher getting the reports, it is hard to get an overview over the current state of all data quality issues. For third parties that don't receive the reports, it is usually impossible.
 
 This also applies to GTFS data, which is fortunately increasingly being published by transport associations.
 
@@ -41,9 +46,9 @@ Daten enthalten, genauso wie Software, Fehler. Doch während bei (Open-Source-)S
 
 Dies gilt auch so für GTFS-Daten, die erfreulicherweise zunehmend von Verkehrsverbünden veröffentlicht werden.
 
-Da die heute häufig zur Veröffentlichung eingesetzten Open-Data-Platformen noch nicht über "Issue-Tracker" zur Meldung und Nachverfolgung von Datenfehlern verfügen, haben wir vor 6 Jahren dieses GitHub-Projekt gestartet. Wie damals hoffen wir heute immer noch, dass die Mobilitäs-Branche den Nutzen offener Issue-Tracker für Datensätze erkennt und irgendwann einmal selbst solche bereitstellt.
+Da die heute häufig zur Veröffentlichung eingesetzten Open-Data-Plattformen noch nicht über "Issue-Tracker" zur Meldung und Nachverfolgung von Datenfehlern verfügen, haben wir vor 6 Jahren dieses GitHub-Projekt gestartet. Wie damals hoffen wir heute immer noch, dass die Mobilitäts-Branche den Nutzen offener Issue-Tracker für Datensätze erkennt und irgendwann einmal selbst solche bereitstellt.
 
-Für GTFS-Feeds wollen wir hier bekannte Datenprobleme dokumentieren und nachverfolgbar machen. Jeder, der in den Daten einen Fehler feststellt, kann diesen hier veröffentlichen. Idealerweise nutzen die Verkehrsverbünde diese Plattform, um über Informationen zum Fehler und dessen Beseitigung zu liefern. Bis wir dieses Ziel erreicht haben, bitten wir jede/n, die/der hier einen Fehler melden, diesen auch an den Verkehrsverbund zu melden und neue Informationen hier zu dokumentieren.
+Für GTFS-Feeds wollen wir hier bekannte Datenprobleme dokumentieren und nachverfolgbar machen. Alle, die in den Daten einen Fehler feststellen, können diesen hier veröffentlichen. Idealerweise nutzen die Verkehrsverbünde diese Plattform, um Informationen zum Fehler und dessen Beseitigung zu liefern. Bis wir dieses Ziel erreicht haben, bitten wir alle, die hier einen Fehler melden, diesen auch an den Verkehrsverbund zu melden und neue Informationen dazu hier zu dokumentieren.
 
 ## Wie melde ich einen Fehler?
 Wenn Du einen Fehler in den Daten festgestellt hast, erstelle einen neuen Issue. Stelle diesen im Titel das Kürzel des Verkehrsverbundes bzw. -unternehmen voran.
