@@ -35,6 +35,7 @@ The following transport associations and companies are already monitoring this p
 
 * Rhein-Neckar-Verkehr GmbH (RNV, Germany)
 * Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW, Germany)
+* [Verkehrsverbund Berlin-Brandenburg](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg) (VBB, Germany)
 
 --
 
@@ -67,3 +68,4 @@ Die nochfolgenden Verkehrsverbünde und -unternehmen beobachten diese Seite bere
 
 * Rhein-Neckar-Verkehr GmbH (RNV, D)
 * Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW, D)
+* [Verkehrsverbund Berlin-Brandenburg](https://de.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg) (VBB, Germany)
