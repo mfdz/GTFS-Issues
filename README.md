@@ -1,6 +1,8 @@
 # GTFS-Issues
 
-Documentation and tracking of current problems with [GTFS](https://gtfs.org) data sets. In the past, only German datasets were tracked.
+Documentation and tracking of current problems with [GTFS](https://gtfs.org) data sets.
+
+Previously, this project had been limited to German data sets, but you're invited to document problems in other regions, too!
 
 ## Background
 Data, just like software, contain errors. However, while (open source) software development projects deal openly and transparently with such errors, this is still rather uncommon with data: errors are reported via email to the data responsible party and then (hopefully) eventually disappear from the data.
@@ -41,7 +43,7 @@ Dies gilt auch so für GTFS-Daten, die erfreulicherweise zunehmend von Verkehrsv
 
 Da die heute häufig zur Veröffentlichung eingesetzten Open-Data-Platformen noch nicht über "Issue-Tracker" zur Meldung und Nachverfolgung von Datenfehlern verfügen, haben wir für fünf Jahren dieses GitHub-Projekt gestartet. Wie damals hoffen wir heute immer noch, dass die Mobilitäs-Branche den Nutzen offener Issue-Tracker für Datensätze erkennt und irgendwann einmal selbst solche bereitstellt.
 
-Für GTFS-Feeds im deutschsprachigen Raum wollen wir hier bekannte Datenprobleme dokumentieren und nachverfolgbar machen. Jeder, der in den Daten einen Fehler feststellt, kann diesen hier veröffentlichen. Idealerweise nutzen die Verkehrsverbünde diese Plattform, um über Informationen zum Fehler und dessen Beseitigung zu liefern. Bis wir dieses Ziel erreicht haben, bitten wir jede/n, die/der hier einen Fehler melden, diesen auch an den Verkehrsverbund zu melden und neue Informationen hier zu dokumentieren.
+Für GTFS-Feeds wollen wir hier bekannte Datenprobleme dokumentieren und nachverfolgbar machen. Jeder, der in den Daten einen Fehler feststellt, kann diesen hier veröffentlichen. Idealerweise nutzen die Verkehrsverbünde diese Plattform, um über Informationen zum Fehler und dessen Beseitigung zu liefern. Bis wir dieses Ziel erreicht haben, bitten wir jede/n, die/der hier einen Fehler melden, diesen auch an den Verkehrsverbund zu melden und neue Informationen hier zu dokumentieren.
 
 ## Wie melde ich einen Fehler?
 Wenn Du einen Fehler in den Daten festgestellt hast, erstelle einen neuen Issue. Stelle diesen im Titel das Kürzel des Verkehrsverbundes bzw. -unternehmen voran.
