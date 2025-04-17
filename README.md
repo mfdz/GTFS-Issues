@@ -33,6 +33,7 @@ When you receive new information from the transport association/company, or the 
 ## Transport associations and companies
 The following transport associations and companies are already monitoring this page and do not need to be contacted separately:
 
+* [DELFI e.V.](https://www.delfi.de) (Germany), a cooperation network of transport associations that publishes the Germany-wide GTFS data set
 * Rhein-Neckar-Verkehr GmbH (RNV, Germany)
 * Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW, Germany)
 * [Verkehrsverbund Berlin-Brandenburg](https://en.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg) (VBB, Germany)
@@ -66,6 +67,7 @@ Wenn Du vom Verkehrsverbung/Unternehmen neue Informationen erhältst, oder die D
 ## Verkehrsverbünde und -unternehmen
 Die nochfolgenden Verkehrsverbünde und -unternehmen beobachten diese Seite bereits und müssen nicht gesondert angeschrieben werden:
 
+* [DELFI e.V.](https://www.delfi.de) (D), ein Kooperationsnetzwerk der Verkehrsverbünde, das den deutschlandweiten GTFS-Datensatz veröffentlicht
 * Rhein-Neckar-Verkehr GmbH (RNV, D)
 * Nahverkehrsgesellschaft Baden-Württemberg mbH (NVBW, D)
 * [Verkehrsverbund Berlin-Brandenburg](https://de.wikipedia.org/wiki/Verkehrsverbund_Berlin-Brandenburg) (VBB, Germany)
